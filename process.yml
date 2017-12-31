@@ -1,0 +1,3 @@
+apps:
+  - script: server/run.js
+    name: cors-proxy
